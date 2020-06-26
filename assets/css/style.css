@@ -7652,9 +7652,9 @@ Fooetr Area CSS
   margin-bottom: 0;
 }
 
-.single-footer-widget .footer-info-contact i {
+.single-footer-widget .footer-info-contact i:before {
   position: absolute;
-  left: 0;
+  left: -20px;
   font-size: 25px;
 }
 
@@ -7955,4 +7955,9 @@ iframe .i4ewOd-pzNkMb-haAclf{
 .clients-item .icon i:before {
   font-size: 52px;
   color: floralwhite;
+}
+.single-footer-widget .footer-social i:before {
+  font-size: 25px;
+  left: -11px;
+  position: relative;
 }
