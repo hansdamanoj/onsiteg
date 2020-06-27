@@ -4500,16 +4500,16 @@ About Area CSS
   margin-top: 30px;
 }
 
-.about-image {
+/* .about-image {
   background-image: url(../../assets/img/about/about-img-2.webp);
   background-size: cover;
   background-position: center center;
   height: 78%;
-}
+} */
 
-.about-image img {
+/* .about-image img {
   display: none;
-}
+} */
 
 /*================================================
 Review Area CSS
